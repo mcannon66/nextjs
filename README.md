@@ -1,2 +1,2 @@
-# nextjs
+# Nextjs
 Next.js training files
